@@ -1,0 +1,72 @@
+{
+  "959688622142": {
+    "bot_name": "AlzBot",
+    "prefix": "/",
+    "mode": "public",
+    "owner_number": null,
+    "anti_link": false,
+    "anti_spam": false,
+    "anti_call": false,
+    "auto_read": false,
+    "auto_typing": true,
+    "anti_delete": false,
+    "welcome_msg": null,
+    "goodbye_msg": null,
+    "config_json": {},
+    "updated_at": "2026-09-27T10:42:04.599+00:00"
+  },
+  "6285137990653": {
+    "bot_name": "AlzBot",
+    "prefix": "/",
+    "mode": "self",
+    "owner_number": "085137990653",
+    "anti_link": false,
+    "anti_spam": false,
+    "anti_call": false,
+    "auto_read": false,
+    "auto_typing": false,
+    "anti_delete": false,
+    "welcome_msg": null,
+    "goodbye_msg": null,
+    "config_json": {},
+    "updated_at": "2026-09-27T22:49:50.057+00:00"
+  },
+  "6287813709432": {
+    "bot_name": "AlzBot",
+    "prefix": ".",
+    "mode": "public",
+    "owner_number": "6287813709432",
+    "anti_link": false,
+    "anti_spam": false,
+    "anti_call": false,
+    "auto_read": false,
+    "auto_typing": false,
+    "anti_delete": false,
+    "welcome_msg": null,
+    "goodbye_msg": null,
+    "config_json": {},
+    "updated_at": "2026-09-28T02:51:29.93+00:00"
+  },
+  "6285136128730": {
+    "session_id": "6285136128730",
+    "bot_name": "Fallll",
+    "prefix": ".",
+    "owner_number": "6285136322326",
+    "mode": "public",
+    "api_key": "alk_085520bdfab8cd835f8c514623523dd0",
+    "notif_group_jid": "",
+    "webhook_url": "",
+    "updated_at": "2026-09-28T05:20:35.007Z"
+  },
+  "6285136322326": {
+    "session_id": "6285136322326",
+    "bot_name": "Falllllll",
+    "prefix": ".",
+    "owner_number": "6285136322326",
+    "mode": "public",
+    "api_key": "alk_cb65655492dbd85c8e2f6cf48265b225",
+    "notif_group_jid": "",
+    "webhook_url": "",
+    "updated_at": "2026-09-28T05:21:47.099Z"
+  }
+}
